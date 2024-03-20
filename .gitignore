@@ -1,0 +1,108 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 图标文件
+Icon?
+
+# 缩略图
+._*
+
+# 文件夹属性文件
+.DocumentRevisions-V100
+
+# Windows 图像文件缓存
+Thumbs.db
+ehthumbs.db
+
+# Windows 短文件名
+*.stackdump
+
+out/
+
+# Java 编译生成的文件
+*.class
+
+# 打包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 虚拟机崩溃日志文件
+hs_err_pid*
+
+# Gradle
+.gradle
+/build/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# JavaFX
+/javafx-sdk-*/
+
+# 日志文件
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# macOS 和 Linux 交换文件
+*.swp
+*.swo
+*.swl
+
+
